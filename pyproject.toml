@@ -21,6 +21,11 @@ dependencies = [
     "google-search-results>=2.4.2",
     "rank-bm25>=0.2.2",
     "faiss-cpu>=1.8.0.post1",
+    "langchain-experimental>=0.0.64",
+    "unstructured[all-docs]>=0.15.7",
+    "pydantic>=2.8.2",
+    "lxml>=5.3.0",
+    "langchainhub>=0.1.21",
 ]
 requires-python = "==3.11.*"
 readme = "README.md"
